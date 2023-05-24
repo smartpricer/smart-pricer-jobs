@@ -16,4 +16,5 @@ If you are interested, please feel to contact Bianca of our HR department: bianc
 - You are proficient in working with Go and Docker
 - Optional: Swagger, REST, RabbitMQ, Redis, MySQL/PostgreSQL, BigQuery
 - Nice to have: Github Actions, Octopus Deploy, Google Kubernetes Engine, Grafana
+- You are located in Berlin or Brandenburg
 - Your German and English are business fluent-ish
