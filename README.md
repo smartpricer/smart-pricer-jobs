@@ -18,7 +18,7 @@ More high-level information on the product can be found here: https://www.smart-
 
 Within our company we are the "Tech" team, which consists of multiple data engineers and analysts. About 40% of our team identifies as female.
 
-Our daily work is a mix of organizational overhead (15%), development (60%), supporting customer projects (15%), and operations (10%).
+Our daily work is a mix of development (60%), supporting customer projects (15%), operations (10%), and organizational overhead (15%).
 
 The team works from our main office in Berlin (*U Rosenthaler Platz*) on Tuesdays and Wednesdays. All other days we are working from the home office.
 
